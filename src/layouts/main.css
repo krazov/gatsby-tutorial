@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Calibri, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 3rem auto;
+    max-width: 600px;
+}
+
+pre {
+    background-color: beige;
+    border: 1px dashed blue;
+    font-family: Consolas, monospace;
+    padding: 1rem;
+}
+
+em {
+    font-family: Cambria, Georgia, serif;
+}

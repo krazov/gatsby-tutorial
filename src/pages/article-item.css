@@ -1,0 +1,8 @@
+:local(.link) {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+:local(.link:hover) {
+    text-decoration: underline;
+}

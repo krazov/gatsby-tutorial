@@ -1,0 +1,8 @@
+:local(.title) {
+    text-align: center;
+}
+
+:local(.article-body) {
+    hyphens: auto;
+    text-align: justify;
+}

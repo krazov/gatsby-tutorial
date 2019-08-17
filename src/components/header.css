@@ -1,0 +1,12 @@
+:local(.main-header) {
+    background-color: darkcyan;
+    color: white;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+:local(.main-header-h1) {
+    margin: 0;
+    padding: 1rem 0;
+}
